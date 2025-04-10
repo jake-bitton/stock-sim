@@ -1,6 +1,6 @@
 # stock-sim
 
-Takes in data from several different "joke" indicators (i.e Nancy Pelosi Tracker, Inverse Cramer, Donald Trump's Truth Social posts, etc.) and uses this to "buy" specific indexes, stocks, bonds, etc. and record the potential gains from such purchases. Also tracks more standard investments, the US Dollar, and other indexes as well as stock market data at large and then compares results over a period of 10 trading days to see how each index performs against the "regular" stock market.
+Takes in data from several different "joke" indicators (i.e. Nancy Pelosi Tracker, Inverse Cramer, Donald Trump's Truth Social posts, etc.) and uses this to "buy" specific indexes, stocks, bonds, etc. and record the potential gains from such purchases. Also tracks more standard investments, the US Dollar, and other indexes as well as stock market data at large and then compares results over a period of 10 trading days to see how each index performs against the "regular" stock market.
 
 ## Strategy:
 - Pull stock market data from yfinance on top indexes (S&P 500, Dow Jones Industrial Average, VTI, the US Dollar, etc.) and a selection of high-performing stocks.
@@ -17,7 +17,7 @@ Takes in data from several different "joke" indicators (i.e Nancy Pelosi Tracker
  
 ## Potential Other Factors:
 
-There is an irregular amount of uncertainty in the stock market (and economy at large) in both the US and the world right now due to actions taken by the federal government as well as various other factors occuring in the world right now which may cause the stock market, the economy, "stable" and/or "safe" funds/indexes to perform unpredictably as well as potentially causing things like "joke" indexes to perform better than expected.
+There is an irregular amount of uncertainty in the stock market (and economy at large) in both the US and the world right now due to actions taken by the federal government as well as various other factors occurring in the world right now which may cause the stock market, the economy, "stable" and/or "safe" funds/indexes to perform unpredictably as well as potentially causing things like "joke" indexes to perform better than expected.
 
 As this is a very short-term experiment, this data may not be reflective of how these funds will fare in the long term and the results gathered here may not accurately reflect long term market situations and data.
 
